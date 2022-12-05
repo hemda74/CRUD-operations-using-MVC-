@@ -23,8 +23,8 @@
 <img src="./4.png" width=600px Height=300px></img>
 ## The DataBase Containes Two Tables 
 ### Departments Table -- 1 : Many -- Employees Table
-#### Departments ---->(HR<IT)
-#### Employee ---->(ID, Name ,HireDate,BirthDate,National Id ,Department ,Salary, Image User )
+#### Departments --->(HR<IT)
+#### Employee --->(ID, Name ,HireDate,BirthDate,National Id ,Department ,Salary, Image User )
 ## Packges Work With 
 ### 1.Entityframeworkcore
 ### 2.EntityframeworkCore.Tools
