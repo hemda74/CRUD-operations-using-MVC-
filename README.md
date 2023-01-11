@@ -2,7 +2,7 @@
 
 ## CRUD operations using Asp.Net Model-Viewr-Controller With Sql Server DataBase (Code First Approach)
 
-<img src="./1.png" width=600px Height=300px></img>
+<img src="./1.png" width=1000px Height=300px></img>
 
 # Features
 
