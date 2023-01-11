@@ -20,7 +20,7 @@
 
 ### Delete Emplyee Record
 
-<img src="./4.png" width=600px Height=300px></img>
+<img src="./4.png" width=1000px Height=300px></img>
 ## The DataBase Containes Two Tables 
 ### Departments Table -- 1 : Many -- Employees Table
 #### Departments --->(HR<IT)
