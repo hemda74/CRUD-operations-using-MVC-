@@ -10,13 +10,13 @@
 
 #### (Name , Auto Generated Id , BirthDay , Department , Salary , Start Date )
 
-<img src="./2.png" width=400px Height=300px></img>
+<img src="./2.png" width=1000px Height=300px></img>
 
 ### Update (Edit) Emplyee Record
 
 #### (Name , Auto Generated Id , BirthDay , Department , Salary , Start Date )
 
-<img src="./3.png" width=400px Height=300px></img>
+<img src="./3.png" width=1000px Height=300px></img>
 
 ### Delete Emplyee Record
 
