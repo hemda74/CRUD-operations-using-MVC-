@@ -1,6 +1,6 @@
 # Employees Mangment System
 
-## CRUD operations using Asp.Net Model-Viewr-Controller With Sql Server DataBase (Code First Approach)
+## CRUD operations using Asp.NetCore v.6 Model-Viewr-Controller With Sql Server DataBase (Code First Approach) & EntityframeworkCore
 
 <img src="./1.png" width=1000px Height=300px></img>
 
