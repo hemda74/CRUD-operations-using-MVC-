@@ -57,5 +57,3 @@
 ### 4.EntityframeworkCore.Design
 ### 5.EntityframeworkCore.CodeGeneration.Design
 ### 6.EntityframeworkCore.Relational
-
->>>>>>> 861ba5d8a4598c44d9b273b9b389ab183e659127
